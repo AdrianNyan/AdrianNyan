@@ -18,3 +18,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on github
+- 🌱 I’m currently learning python,adb
+- 💬 Ask me about php
+- 😄 Pronouns: lalala
+- ⚡ Fun fact: dididi
